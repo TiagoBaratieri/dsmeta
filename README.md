@@ -1,4 +1,5 @@
 DSMeta - Relatório de Vendas e Notificações SMS
+
 📝 Descrição do Projeto
 O DSMeta é uma aplicação web full-stack desenvolvida durante a Semana Spring React da DevSuperior (Professor Nelio Alves). O principal objetivo deste projeto é fornecer um relatório de vendas robusto, permitindo que os usuários filtrem as vendas por período (data mínima e máxima) e enviem notificações via SMS para um número de telefone pré-configurado, utilizando a API da Twilio.
 
